@@ -1,0 +1,6 @@
+Codingan tersebut adalah program sederhana untuk mengelola daftar kontak nomor telepon. berikut adalah cara penggunaan dan keterangan kode tersebut :
+1. Tambah nomor telepon : Pilih opsi ini untuk menambahkan kontak baru. Program akan meminta anda memasukkan nama dan nomor telepon lalu akan menambahkannya kedalam daftar kontak.
+2. Tampilkan semua nomor telepon : Pilih opsi ini untuk melihat daftar semua nomor telefon yang sudah disimpan. nama dan nomor telepon setiap kontak ditampilkan.
+3. Urutan Nomor Telepon : Opsi ini akan mengurutkan daftar kontak berdasarkan nama. Hasilnya, daftar kontak akan ditampilkan dalam urutan alfabetis berdasarkan nama.
+4. Hapus Nomor Telepon : Pilih opsi ini jika ingin menghapus kontak. Program akan diminta anda masukan nama kontak yang ingin dihapus, jika nama tersebut ada dalam daftar, kontak akan dihapus. Jika tidak, program akan memberikan pesan bahwa kontak tidak ditemukan.
+5. Cari Nomor Telepon : Gunakan opsi ini untuk mencari kontak berdasarkan nama. Program akan meminta anda memasukan nama yang ingin dicari. Jika nama tersebut ada dalam daftar, program akan menampilkan nama dan nomor teleponnya, jika tidak program akan memberikan pesan bahwa kontak tidak ditemukan.
